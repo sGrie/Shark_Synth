@@ -1,0 +1,6 @@
+This program creates a playable keyboard synthesizer with certian keys on the keyboard
+The user can control what notes are being played, how long they are played,
+the volume, and the octave of the note
+
+The starting octave is octave 4 which is roughly in the center of a piano
+The default volume is 100%
