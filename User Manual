@@ -1,0 +1,12 @@
+The keys Q, W, E, R, T, Y, and U represent the white keys on a piano keyboard
+The keys 2, 3, 5, 6, and 7 represebt the black keys
+The sound tone begins to play when a specific key is pushed and ends when the key is lifted
+There are sometimes issues if multiple keys are pressed at once
+so for best results stick to one key at a time
+keys will light up when in use
+
+There is an octave up and an octave down button which can change the octave of the keys
+the starting octave is 4 which is displayed by a label at the bottom
+
+there is a slider to the right for volume, which goes from 0% (no sound at all) to 100% (highest output)
+the volume is also displayed at the bottom
