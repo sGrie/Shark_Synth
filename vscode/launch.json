@@ -1,0 +1,74 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "SliderExample",
+            "request": "launch",
+            "mainClass": "SliderExample",
+            "projectName": "sound_13926714",
+            "vmArgs": "--module-path c:\\Users\\gimon\\Downloads\\java-needs\\javafx-sdk-20\\lib --add-modules javafx.controls"
+
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Login",
+            "request": "launch",
+            "mainClass": "cssTest.Login",
+            "projectName": "sound_13926714",
+            "vmArgs": "--module-path c:\\Users\\gimon\\Downloads\\java-needs\\javafx-sdk-20\\lib --add-modules javafx.controls"
+        },
+        {
+            "type": "java",
+            "name": "PlayNotes",
+            "request": "launch",
+            "mainClass": "PlayNotes",
+            "projectName": "sound_13926714"
+        },
+        {
+            "type": "java",
+            "name": "SawFaders",
+            "request": "launch",
+            "mainClass": "SawFaders",
+            "projectName": "sound_13926714"
+        },
+        {
+            "type": "java",
+            "name": "Shark_Synth",
+            "request": "launch",
+            "mainClass": "Shark_Synth",
+            "projectName": "sound_13926714"
+        },
+        {
+            "type": "java",
+            "name": "javfxTest",
+            "request": "launch",
+            "mainClass": "javfxTest",
+            "projectName": "sound_13926714",
+            "vmArgs": "--module-path c:/Users/gimon/Downloads/java-needs/javafx-sdk-20/lib --add-modules javafx.controls"
+        },
+        {
+            "type": "java",
+            "name": "jsynMess",
+            "request": "launch",
+            "mainClass": "jsynMess",
+            "projectName": "sound_13926714"
+        },
+        {
+            "type": "java",
+            "name": "soundtest",
+            "request": "launch",
+            "mainClass": "soundtest",
+            "projectName": "sound_13926714"
+        }
+    ]
+}
