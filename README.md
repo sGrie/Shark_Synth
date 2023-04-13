@@ -6,7 +6,9 @@ The synth will be useful for playing music directly from your laptop and if all 
 The basics of this project should not be too crazy I don't think
 It might get a bit more complicate if I try making a digital example of the keys in the gui but otherwise it shouldn't be anything crazy
 I would like to focus on getting a simple working version out first and then making it much more customizable
-![image](https://user-images.githubusercontent.com/123497588/231776982-fcf8d018-f445-48a0-a161-d9278ee0619b.png)
+
+![image](https://user-images.githubusercontent.com/123497588/231777167-477dd4d6-000d-4f01-9800-b5fd5f6e71a7.png)
+
 
 
 
